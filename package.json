@@ -7,8 +7,8 @@
     "test": "jest",
     "coverage": "jest --coverage",
     "lint": "eslint .",
-    "build": "webpack --mode production"
-
+    "build": "webpack --mode production",
+    "server": "webpack-dev-server --mode development"
   },
   "author": "",
   "license": "ISC",
